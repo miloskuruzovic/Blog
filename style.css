@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css?family=Fascinate|Palanquin:400,700');
+body {font-family: 'Palanquin', sans-serif;}
+.add-form {font-family: 'Helvetica', 'Arial', sans-serif}
+a:link,
+a:visited,
+.pagination a:link,
+.pagination a:visited {color: #FF2F00;}
+a:hover,
+.pagination a:hover {color: #D23800 !important;}
+.fire {color: #FF2F00;}
+.form-group input {color: #FF2F00 !important;}
+.main-heading {
+	font-family: 'Fascinate', cursive;
+	font-size: 3.5em;
+	font-weight: 400;
+}
+.cat-heading {
+	font-size: 2.9em;
+	font-weight: 400;	
+}
+.breadcrumb {background-color: #f9f9f9;}
+.cat-display {padding: 2px;}
+.cat-display a:link,
+.cat-display a:visited {
+	display: block;
+	font-size: 2.5em;
+	font-weight: 700;
+	letter-spacing: 0.3em;
+	text-decoration: none;
+	border: 1px solid #FF2F00;
+	background-color: #FF2F00;
+	color: #fff !important;
+	padding: 100px 0;
+	transition: 0.5s;
+}
+.cat-display a:hover {
+	color: #FF2F00 !important;
+	background-color: #fff;
+}
+.search-box {margin-top: 100px;}
+.content {padding: 80px 0;}
+.content p {font-size: 2em;}
+.content .row {
+	padding: 25px;
+	margin: 0;
+}
+.intro-img {
+	width: 50%;
+	float: right;
+	margin: 10px 0 5px 30px;
+	border-radius: 5%;
+}
+.post {margin: 10px 0 50px;}
+.post-intro {font-size: 1.05em;}
+.post-h2 {
+	font-size: 3em;
+	font-weight: bold;
+}
+.post h3 {
+	font-size: 2.1em;
+	font-weight: bold;
+	color: #111;
+}
+.post p {
+	font-size: 1.3em;
+	color: #444;
+}
+.post-text {font-size: 1.5em !important; }
+.comments{text-align: right;}
+.comments h3 {padding: 0 20px 20px 0;}
+.comment {
+	font-size: 15px !important;
+	color: #555;
+	text-align: right;
+}
+.pagination-container {padding: 40px;}
+.cover-img {
+	display: block;
+	margin: 20px auto 60px;
+}
+.list-group {font-size: 1.1em}
+.first-group-item {
+	font-size: 1.1em;
+	margin-bottom: 10px;
+	margin-top: 30px;
+}
+li.list-group-item {
+	border: none;
+	padding: 0 0 0 10px;
+}
+a.list-group-item {
+	border: none;
+	padding: 5px 10px;
+}
+.btn-default.login-btn {
+	background-color: #FF2F00 !important;
+	color: #fff !important;
+	margin: 30px 0 0 10px;
+	letter-spacing: 0.1em;
+	font-weight: 700;
+}
+.btn-default.login-btn:hover {
+	background-color: #D23800 !important;
+}
